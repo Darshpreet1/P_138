@@ -1,0 +1,15 @@
+.heading{
+    width: 70%;
+
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.a{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 30%;
+}
